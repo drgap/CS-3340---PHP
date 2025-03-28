@@ -1,0 +1,38 @@
+body {
+    font-family: Calibri;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+.keyword {
+    color: red;
+}
+
+.stats_table {
+    border-collapse: collapse;
+    /*border: 1px solid lightgray;*/
+    border: 5px solid lightgray;
+    font-family: Consolas;
+}
+
+td, th {
+    border: 1px solid darkgray;
+    padding: 0px 5px 0px 5px;
+    text-align: right;
+}
+td {
+    /*border: 1px solid lightgray;*/
+    /*color: red;*/
+    /*text-align: center;*/
+}
+
+th {
+    text-align: right;
+}
+
+textarea {
+
+}
+

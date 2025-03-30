@@ -1,0 +1,76 @@
+body {
+    font-family: Calibri;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+.keyword {
+    color: red;
+}
+
+.lipadding {
+    padding-bottom: .5em;
+    padding-left: 1em;
+}
+
+p.selections {
+    background: chocolate;
+    color: white;
+}
+p.error {
+    background: red;
+    color: white;
+}
+.error {
+    background: red;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.monofont {
+    font-family: "Consolas", "Courier New", monospace;
+
+}
+.yellow {
+    background: yellowgreen;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    letter-spacing: 0.5em;
+    padding: 0.5em;
+    font-family: "Monotype Corsiva", "Courier New", Courier, monospace;
+}
+
+#labelListBox {
+    display: block;
+    margin-bottom: 0.25em;
+}
+.stats_table {
+    border-collapse: collapse;
+    /*border: 1px solid lightgray;*/
+    border: 5px solid lightgray;
+    font-family: Consolas;
+}
+
+td, th {
+    border: 1px solid darkgray;
+    padding: 0px 5px 0px 5px;
+    text-align: right;
+}
+td {
+    /*border: 1px solid lightgray;*/
+    /*color: red;*/
+    /*text-align: center;*/
+}
+
+th {
+    text-align: right;
+}
+
+textarea {
+
+}
+
